@@ -1,0 +1,15 @@
+This project was design and implemented by Yunux
+
+To run this project, follow the below process:
+-- Download and extract the file.
+-- create a Database with the "on-boarding"
+-- Import the Database file from the db folder
+
+
+Login Details for user or create new ccount
+Email : yunusisah123@gmail.com
+Pass: 123456
+
+Login for Admin
+Email: yunusisah123@gamil.com or admin
+Pass: 12345
